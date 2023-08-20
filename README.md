@@ -51,6 +51,7 @@ MacOS
 sudo sysctl -w net.inet.ip.forwarding=1
 ```
 
+Run the script:
 
 ```python
 sudo python3 arp_poisn.py
